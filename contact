@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <title>Contact Your Name</title>
+</head>
+<style>
+    body{
+        background-image:url("sq7aj3j3zi78ae8njhyk.webp") ;
+        text-align: center;
+        text-decoration:none;
+        margin: top 6px;
+        margin-bottom: 0cm;
+        color:red;
+    }
+</style>
+
+    
+</body>
+<body>
+
+   
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>Email: sandhiyag986@gmail.com</p>
+        <p>Phone: 9345137830</p>
+    </section>
+
+   
+
+</body>
+</html>
